@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.top {
+
+  margin: 0;
+  background-color: bisque;
+  height: 150px;
+  width: 100%;
+ padding-top: 20px;
+  text-align: center;  
+}
+
+.title{margin: 0 auto;
+  align-self: center;
+}
+
+.content{
+  width: 390px;
+  margin: 20px auto;
+}
